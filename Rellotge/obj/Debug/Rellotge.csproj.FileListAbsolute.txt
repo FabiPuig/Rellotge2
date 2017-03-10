@@ -12,3 +12,6 @@ E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.Properties.Re
 E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.csproj.GenerateResource.Cache
 E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.exe
 E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.pdb
+E:\intelij\M07\C#\PT_Rellotge\R2d2\Rellotge\Rellotge\bin\Debug\Rellotge.exe.config
+E:\intelij\M07\C#\PT_Rellotge\R2d2\Rellotge\Rellotge\obj\Debug\Rellotge.exe
+E:\intelij\M07\C#\PT_Rellotge\R2d2\Rellotge\Rellotge\obj\Debug\Rellotge.pdb

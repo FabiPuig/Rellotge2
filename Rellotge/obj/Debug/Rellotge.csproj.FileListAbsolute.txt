@@ -1,0 +1,14 @@
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\bin\Debug\Rellotge.exe.config
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\bin\Debug\Rellotge.exe
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\bin\Debug\Rellotge.pdb
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.csprojResolveAssemblyReference.cache
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.g.cs
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\App.g.cs
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge_MarkupCompile.cache
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge_MarkupCompile.lref
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.baml
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.g.resources
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.Properties.Resources.resources
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.csproj.GenerateResource.Cache
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.exe
+E:\intelij\M07\C#\PT_Rellotge\Rellotge\Rellotge\obj\Debug\Rellotge.pdb

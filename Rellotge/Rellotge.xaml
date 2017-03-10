@@ -1,0 +1,32 @@
+﻿<Window x:Class="Rellotge.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rellotge"
+        mc:Ignorable="d"
+        Title="Rellotge" Height="385.668" Width="423.938" Closing="Window_Closing" Loaded="Window_Loaded">
+    <Grid>
+        <DockPanel Margin="0,0,0,10">
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_Fitxer">
+                    <MenuItem x:Name="Sortir" Header="_Sortir" Click="Sortir_Click"/>
+                </MenuItem>
+                <MenuItem Header="_Ajuda">
+                    <MenuItem x:Name="sobre_programa" Header="_Sobre el programa" Click="sobre_programa_Click"/>
+                </MenuItem>
+            </Menu>
+            <Label x:Name="lbTime" Content="Label" HorizontalAlignment="Left" Margin="0,50,0,0" VerticalAlignment="Top" Height="67" Width="198" FontSize="23" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" RenderTransformOrigin="0.379,0.564"/>
+            <ToolBar x:Name="toolBar" Height="51" VerticalAlignment="Top" DockPanel.Dock="Top" Margin="-198,0,0,0">
+                <StackPanel Width="200" Orientation="Horizontal">
+                    <RadioButton x:Name="rbActivar" Content="Activar&#xA;" Margin="0,10,75,0" Checked="rbActivar_Checked"/>
+                    <RadioButton x:Name="rbDesactivar" Content="Desactivar&#xA;" Margin="0,10,75,0" Checked="rbDesactivar_Checked"/>
+                </StackPanel>
+            </ToolBar>
+
+        </DockPanel>
+        <Label x:Name="label" Content="ALARMA" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="223,75,0,0" Height="32" Width="112"/>
+        <ComboBox x:Name="cbHores" HorizontalAlignment="Left" VerticalAlignment="Top" Width="62" Margin="223,112,0,0" Height="26" RenderTransformOrigin="0.5,0.5" SelectionChanged="cbHores_SelectionChanged"/>
+        <ComboBox x:Name="cbMinuts" HorizontalAlignment="Left" VerticalAlignment="Top" Width="62" Margin="290,113,0,0" Height="25" SelectionChanged="cbMinuts_SelectionChanged"/>
+    </Grid>
+</Window>
